@@ -24,7 +24,7 @@ Ensure you have Python installed on your system to run this program.
 
 ## Elements and Charges
 
-The program uses a predefined set of elements with their corresponding charges:
+The program uses a predefined set of elements with their corresponding charges (as well as the number of electrons needed for a complete shell):
 
 ```python
 elemSym = ['H', 'B', 'C', 'N', 'O', 'F', 'Si', 'P', 'S', 'Cl', 'Se', 'Br', 'I']
@@ -59,6 +59,6 @@ Center Lone Pairs: 1
 Molecular Geometry: Trigonal Pyramid
 ```
 
-In this example, the molecular geometry is determined to be "Trigonal Planar" based on the input parameters.
+In this example, the molecular geometry is determined to be "Trigonal Pyramid" based on the input parameters.
 
 Feel free to experiment with different inputs to explore various molecular geometries!
