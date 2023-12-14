@@ -1,4 +1,3 @@
-# CovalentBonding
 # Molecular Geometry Calculator
 
 This program calculates the molecular geometry of a molecule based on the number of edge atoms, the central atom, and other factors. It uses a set of predefined elements and their charges, along with specific atomic arrangements.
