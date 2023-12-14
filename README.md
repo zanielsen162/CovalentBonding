@@ -39,16 +39,24 @@ elemNeeded = [2, 6, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8]
 
 ## Example
 
-Here is an example of the program output:
+Here is an example of program output with user input:
 
 ```bash
-Amount of Edge Options: [2, 3]
-
+['H', 'B', 'C', 'N', 'O', 'F', 'Si', 'P', 'S', 'Cl', 'Se', 'Br', 'I']
+Center Atom: N
+Edge Atom: H
+Amount of Edge Options: [3]
 Amount of Edge: 3
 
-Edge Lone Pairs: [0, 0, 1]
-Center Lone Pairs: 2
-Molecular Geometry: Trigonal Planar
+
+    H
+    │
+H ─ N ─ H
+
+
+Edge Lone Pairs: [0, 0, 0]
+Center Lone Pairs: 1
+Molecular Geometry: Trigonal Pyramid
 ```
 
 In this example, the molecular geometry is determined to be "Trigonal Planar" based on the input parameters.
